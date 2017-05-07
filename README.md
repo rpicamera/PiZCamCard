@@ -4,7 +4,7 @@ The templates in this repo is based on the camera module sold in here: http://ww
 ### Background
 This project was inspired by the google cardboard VR (recently it released AIY...also cardboard). As the raspberry pi camera player, I made this for my own projects. This weekend my friend visited me and saw my cardboard camera kit, he said I should open source it, so here it is.
 
-### template
+### Template
 There is one file called *template.dxf*. This file includes all the templates of different type of cameras and kits I designed. If you want to make your own camera kit, all the material you would need can be found in this file. 
 
 ### Three kits 
@@ -29,7 +29,7 @@ You may alreay get it if you saw the files. Well, very simple and straitforward,
 ### Ending
 I think it is NOT kid friendly. I tried lots of times myself and found cutting thick paper was not as easy as I expected. However, it is cheap and enjoyful ;) 
 
-### What else you need to buy
+### What's else you need to buy
 1. M2.5 M2 screw and nut, which I believe every raspberry pi player should have. 
 
 2. Suction cups if you wanted to put it on the window or freezer.
