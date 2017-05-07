@@ -16,7 +16,7 @@ This kit is for the *normal* cameral module with lens, like this one:  http://ww
 This one is for pi zero camera with lens, like this one:  http://www.ebay.co.uk/itm/152533848844
 
 ### How to use it?
-You may alreay get it if you saw the files. Well, very simple and straitforward, what you need to do is 
+You may alreay get it if you saw the files. Well, very simple and straightforward, what you need to do is 
 
 * Firstly print the bmp file on A4 paper with no scale (normally it will automatically add an edge so it needs to be set as no scale and 100%). 
 
