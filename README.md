@@ -16,7 +16,19 @@ This kit is for the *normal* cameral module with lens, like this one:  http://ww
 This one is for pi zero camera with lens, like this one:  http://www.ebay.co.uk/itm/152533848844
 
 ### How to use it?
-You may alreay get it if you saw the files. Well, very simple, what you need to do it firstly print the bmp file on A4 paper with no scale (normally it will automatically add an edge so it need to be set no scale and 100%). Then, glue it on a A4 *super thick* paper, which you buy from Amazon (search for *A4 super thick*). After glue dried, use cutter and whole punch (m2.5, m2) to cut the parts. Final part, if you would like a strong kit, you should glue the copied parts but rotated 90 degrees together. Why? because normally the paper texture are on one direction, so, if you glued them together, it will get the crossed texture, which make the structure very strong and it could hold for longer time. Also, you can print pattern on A4 paper and it will stay on the kit. 
+You may alreay get it if you saw the files. Well, very simple and straitforward, what you need to do is 
+
+* firstly print the bmp file on A4 paper with no scale (normally it will automatically add an edge so it needs to be set as no scale and 100%). 
+
+* Then, glue it on a A4 *super thick* paper, which you could find in Amazon (search for *A4 super thick*). After glue dried, use cutter and hole punch (M2.5, M2) to cut the parts. 
+
+* Final part, if you would like a strong structure, you should glue the copied parts but rotated 90 degrees together. Why? because normally the paper texture are on one direction, so, if you glued two parts together, it would get the crossed texture, which make the structure very strong and it could hold for longer time. 
+
+* Also, you can print anything you like on A4 paper and it will stay on the kit. 
 
 ### Ending
-I think it is not kid friendly. I tried lots of times myself and found cutting thick paper was not as easy as I expected. However, it is cheap and enjoyful ;) 
+I think it is NOT kid friendly. I tried lots of times myself and found cutting thick paper was not as easy as I expected. However, it is cheap and enjoyful ;) 
+
+### what else you need to buy
+1: M2.5 M2 screw and nut, which I believe every raspberry pi player should have. 
+2: Suction cups if you wanted to put it on the window or freezer.
