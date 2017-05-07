@@ -18,7 +18,7 @@ This one is for pi zero camera with lens, like this one:  http://www.ebay.co.uk/
 ### How to use it?
 You may alreay get it if you saw the files. Well, very simple and straitforward, what you need to do is 
 
-* firstly print the bmp file on A4 paper with no scale (normally it will automatically add an edge so it needs to be set as no scale and 100%). 
+* Firstly print the bmp file on A4 paper with no scale (normally it will automatically add an edge so it needs to be set as no scale and 100%). 
 
 * Then, glue it on a A4 *super thick* paper, which you could find in Amazon (search for *A4 super thick*). After glue dried, use cutter and hole punch (M2.5, M2) to cut the parts. 
 
@@ -29,6 +29,7 @@ You may alreay get it if you saw the files. Well, very simple and straitforward,
 ### Ending
 I think it is NOT kid friendly. I tried lots of times myself and found cutting thick paper was not as easy as I expected. However, it is cheap and enjoyful ;) 
 
-### what else you need to buy
-1: M2.5 M2 screw and nut, which I believe every raspberry pi player should have. 
-2: Suction cups if you wanted to put it on the window or freezer.
+### What else you need to buy
+1. M2.5 M2 screw and nut, which I believe every raspberry pi player should have. 
+
+2. Suction cups if you wanted to put it on the window or freezer.
